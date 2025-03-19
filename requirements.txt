@@ -1,0 +1,6 @@
+langchain
+langchain-community
+requests
+python-dotenv
+langchain_groq
+pyttx3

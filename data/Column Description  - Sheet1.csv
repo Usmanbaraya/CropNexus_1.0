@@ -1,0 +1,21 @@
+Column ,Description 
+Region,"The geographical area in Nigeria where the data was collected (e.g., North-Central, South-West). This affects climate, soil type, and crop suitability."
+Soil Type ,"The classification of soil found in the region (e.g., Loamy, Sandy, Clay, Silt, Peaty). Different crops grow best in specific soil types."
+Temperature (°C),"The average air temperature in the region (ranging from 20°C to 40°C). Temperature affects plant metabolism, growth, and stress resistance."
+Rainfall (mm),The annual amount of rainfall in millimeters (ranging from 500 mm to 2000 mm). This helps determine water availability for crops.
+Humidity (%),"The average humidity level in the air (ranging from 40% to 90%). High humidity can promote fungal diseases, while low humidity may cause drought stress."
+pH Level,The soil’s acidity or alkalinity level (ranging from 4.5 to 7.5). Different crops require specific pH levels for nutrient absorption.
+Sunlight Hours/Day,The number of hours of direct sunlight per day (ranging from 4 to 10 hours). Essential for photosynthesis and plant growth.
+Soil Moisture (%),The percentage of water content in the soil (ranging from 10% to 80%). This helps determine irrigation needs.
+Altitude (m),"The height above sea level in meters (ranging from 50m to 1000m). Altitude affects temperature, air pressure, and crop adaptability."
+Slope/Topography ,"The land gradient where crops are planted (Low, Moderate, High). Slopes affect water drainage, erosion, and soil stability."
+Crop Planted,"The specific crop planted in the region (e.g., Maize, Millet, Cocoa, Rice, Cassava, Groundnut, Tomato, Yam, Wheat, Sorghum)."
+Maturation Period (Days) ,The number of days it takes for the crop to fully mature (ranges from 60 to 180 days). Helps in planning planting and harvesting schedules.
+Crop Type,"The classification of the crop (e.g., Cereal, Grain, Cash Crop, Root, Legume, Vegetable). Helps categorize crops based on their economic and food value"
+Soil Requirement,"The ideal soil condition for a given crop (e.g., Well-drained, Moist, Acidic Soil). Ensures crops get the best soil environment for growth."
+Planting Season,"The best time of year to plant the crop (e.g., June-Aug, March-May, July-Sept, Oct-Dec, Jan-Feb). Based on seasonal climate patterns."
+Irrigation Availability,Whether irrigation is available in the region (Yes/No). Determines if artificial watering is necessary.
+Fertilizer Requirement,"The amount of fertilizer needed for optimal crop growth (Low, Medium, High). Helps optimize soil fertility management."
+Pests/Disease Risk,"The likelihood of pest or disease issues in the region (Low, Medium, High). Helps in predicting crop vulnerability."
+Market Demand (Price/kg),The current price per kilogram of the crop in the market (ranges from 100 NGN to 1000 NGN). Useful for economic decision-making.
+Historical Yield (kg/ha),
