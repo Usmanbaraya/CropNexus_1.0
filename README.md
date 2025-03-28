@@ -97,7 +97,7 @@ streamlit run app.py
  
 📌 **GitHub** – [https://github.com/Victorism120](https://github.com/Victorism120)
 
-📌 **GitHub** – [https://github.com/Ofureidibur](https://github.com/Ofureidibur)
+📌 **GitHub** – [https://github.com/Ofureidibur](https://github.com/Ofure2024)
   
 📌 **GitHub** – [https://github.com/Ebenezertemitope](https://github.com/Ebenezertemitope)
   
